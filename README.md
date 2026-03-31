@@ -12,6 +12,7 @@ My daily Leetcode practice.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -24,4 +25,8 @@ My daily Leetcode practice.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/divaparekh06/Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
